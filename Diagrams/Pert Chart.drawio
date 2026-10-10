@@ -1,0 +1,145 @@
+<mxfile host="Electron">
+  <diagram name="Project Network Diagram" id="0">
+    <mxGraphModel dx="1746" dy="1061" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="995" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e0-1" edge="1" parent="1" source="t0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="200" />
+              <mxPoint x="365" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-2" edge="1" parent="1" source="t1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="200" />
+              <mxPoint x="715" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-3" edge="1" parent="1" source="t2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="200" />
+              <mxPoint x="1065" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-4" edge="1" parent="1" source="t2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="200" />
+              <mxPoint x="1065" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-5" edge="1" parent="1" source="t3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="120" />
+              <mxPoint x="1415" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4-5" edge="1" parent="1" source="t4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="360" />
+              <mxPoint x="1415" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5-6" edge="1" parent="1" source="t5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="240" />
+              <mxPoint x="1415" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5-7" edge="1" parent="1" source="t5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="240" />
+              <mxPoint x="1415" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6-8" edge="1" parent="1" source="t6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="540" />
+              <mxPoint x="1065" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7-8" edge="1" parent="1" source="t7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="780" />
+              <mxPoint x="1065" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8-9" edge="1" parent="1" source="t8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="660" />
+              <mxPoint x="715" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9-10" edge="1" parent="1" source="t9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10-11" edge="1" parent="1" source="t10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=8;strokeColor=#334e65;strokeWidth=2;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="t11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="910" />
+              <mxPoint x="890" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;System Request&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 22/09/2026&lt;br&gt;Finish: 23/09/2026 &amp;nbsp; Dur: 2 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Feasibility Study&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 24/09/2026&lt;br&gt;Finish: 27/09/2026 &amp;nbsp; Dur: 4 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="390" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;PERT and Gantt Chart&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 28/09/2026&lt;br&gt;Finish: 03/10/2026 &amp;nbsp; Dur: 6 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="740" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffffff;strokeColor=#5d86b1;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Interview&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #5d86b1;margin:5px 0 6px 0;&quot;&gt;Start: 04/10/2026&lt;br&gt;Finish: 06/10/2026 &amp;nbsp; Dur: 3 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1090" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffffff;strokeColor=#5d86b1;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Questionnaire&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #5d86b1;margin:5px 0 6px 0;&quot;&gt;Start: 07/10/2026&lt;br&gt;Finish: 09/10/2026 &amp;nbsp; Dur: 3 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1090" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Data Flow Diagram&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 10/10/2026&lt;br&gt;Finish: 13/10/2026 &amp;nbsp; Dur: 4 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1440" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="t6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Data Store&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 14/10/2026&lt;br&gt;Finish: 15/10/2026 &amp;nbsp; Dur: 2 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1090" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="t7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Process Specification&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 16/10/2026&lt;br&gt;Finish: 19/10/2026 &amp;nbsp; Dur: 4 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1090" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="t8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Entity Relationship&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 20/10/2026&lt;br&gt;Finish: 23/10/2026 &amp;nbsp; Dur: 4 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="740" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="t9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Normalization&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 24/10/2026&lt;br&gt;Finish: 27/10/2026 &amp;nbsp; Dur: 4 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="390" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="t10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Design&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 28/10/2026&lt;br&gt;Finish: 16/11/2026 &amp;nbsp; Dur: 20 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="390" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="t11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;spacingTop=4;fontFamily=Arial;fontSize=15;fontColor=#172b3a;fillColor=#ffe3e3;strokeColor=#c85252;strokeWidth=1.5;shadow=0;" value="&lt;b&gt;Implementation&lt;/b&gt;&lt;hr style=&quot;border:0;border-top:1px solid #c85252;margin:5px 0 6px 0;&quot;&gt;Start: 17/11/2026&lt;br&gt;Finish: 10/12/2026 &amp;nbsp; Dur: 24 days&lt;br&gt;Res: Moaaz Beder" vertex="1">
+          <mxGeometry height="120" width="300" x="1090" y="850" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
